@@ -1,0 +1,1 @@
+{"client_settings":{"listen_address":"127.0.0.1","listen_port":51425,"server":"117.28.243.187","server_port":8333},"connect_timeout":6,"idle_timeout":300,"method":"rc4-md5","obfs":"plain","obfs_param":"","over_tls_settings":{"enable":false,"path":"/abcd1234/","server_domain":""},"password":"passfw2xs4e!","protocol":"origin","protocol_param":"","udp":true,"udp_timeout":6}
